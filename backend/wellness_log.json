@@ -1,0 +1,29 @@
+[
+    {
+        "timestamp": "2025-11-24T18:45:44.770255",
+        "mood": "not good",
+        "energy": "low",
+        "objectives": [
+            "complete homework"
+        ],
+        "summary": "To help with low energy and the goal of completing homework, the advice was to break tasks into smaller chunks and take short breaks."
+    },
+    {
+        "timestamp": "2025-11-24T18:51:40.889783",
+        "mood": "low",
+        "energy": "a bit more energetic",
+        "objectives": [
+            "complete math homework"
+        ],
+        "summary": "Suggested breaking down math homework into smaller chunks and taking short breaks to manage low mood and increased energy."
+    },
+    {
+        "timestamp": "2025-11-24T18:57:33.794908",
+        "mood": "tired",
+        "energy": "low",
+        "objectives": [
+            "complete math assignment"
+        ],
+        "summary": "Today, you're feeling tired with low energy. Your goal is to complete your math assignment, and the advice is to break it into smaller steps and take short breaks."
+    }
+]
